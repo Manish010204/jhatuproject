@@ -1,0 +1,11 @@
+# Mobile App Dependencies
+kivy==2.2.1
+kivy-garden==0.1.5
+pyserial==3.5
+pybluez==0.23
+
+# PC Application Dependencies
+pyautogui==0.9.54
+pyserial==3.5
+pybluez==0.23
+keyboard==0.13.5
